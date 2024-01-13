@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, render_template, request
-from transformers import pipeline
+# from transformers import pipeline
 from gtts import gTTS
 import requests
 import os 
